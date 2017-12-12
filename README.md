@@ -45,6 +45,7 @@ Awesome Product Manager
 - [Software Tools for Product Managers](http://www.brainmates.com.au/industry-links/software-tools-for-product-managers), an excellent list, full tool types for Product Manager.
 - [Tools for Product Managers](https://www.producthunt.com/e/tools-for-product-managers), listed by [Product Hunt](https://www.producthunt.com/).
 - [Canvanizer](https://canvanizer.com/), a website lets Product Manager create business model canvas and do quick prototype from idea.
+- [Taskade](https://taskade.com/), a collaborative task list and outline to help teams organize tasks and roadmaps.
 
 
 ## Credits
